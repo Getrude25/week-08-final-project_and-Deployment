@@ -2,7 +2,7 @@ P5Wellness - Company Portfolio Website
 ## 📋 Project Overview ##
 P5Wellness is a professional, responsive website for a holistic wellness company. The site showcases the company's services, approach, team, and provides a way for potential clients to get in touch. Built with modern web technologies, it features a clean design focused on wellness and holistic health.
 
-Live Demo: [Add your live URL here after deployment]
+Live Demo: (https://getrude25.github.io/week-08-final-project_and-Deployment/)
 
 ## 🎯 Purpose ##
 The website serves as the primary online presence for P5Wellness, designed to:
